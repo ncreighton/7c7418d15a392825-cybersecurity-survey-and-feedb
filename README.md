@@ -1,2 +1,28 @@
-# 7c7418d15a392825-cybersecurity-survey-and-feedb
-Professional survey and feedback collection system built for cybersecurity operations and growth.
+# Cybersecurity Survey and Feedback Collection System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28EbJ1h1B7Eo3lm33mcZc3O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28EbJ1h1B7Eo3lm33mcZc3O)
+
